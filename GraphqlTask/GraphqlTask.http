@@ -1,0 +1,6 @@
+@GraphqlTask_HostAddress = http://localhost:5195
+
+GET {{GraphqlTask_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
